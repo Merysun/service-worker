@@ -1,4 +1,4 @@
-// register service worker
+// register service worker :D
 
 if ('serviceWorker' in navigator) {
   //navigator.serviceWorker.register('/sw-test/sw.js', { scope: '/sw-test/' }).then(function(reg) {
